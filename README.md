@@ -1,4 +1,4 @@
-# hello
+# vue-list知道创宇实习demo（实现父子组件传值，实现新增，删除和搜索功能）
 
 ## Project setup
 ```
